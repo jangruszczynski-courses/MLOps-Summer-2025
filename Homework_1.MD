@@ -26,7 +26,12 @@ Please note: Optuna offers a callback that automatically logs your run history t
 * Feel free to use models from any of your previous or future (like Master's degree) projects.
 * Deadline: Two week from now
 
+### Acceptance Criteria:
+* 3 minute presention showcasing code, main problems encountered (for others to learn from your mistakes), model monitoring tool with training and validation curves. NO SLIDES!! (unless you really want to make them)
 
+
+### Deadline:
+* (2 weeks from first labs) 
 
 ### Useful links:
 * https://lightning.ai/lightning-ai/studios/image-segmentation-with-pytorch-lightning 
