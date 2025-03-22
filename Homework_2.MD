@@ -46,6 +46,6 @@ You must expose an API endpoint that accepts requests and returns model predicti
 - **Bonus: +0.25 points (Total: 0.75 points)** if the model is deployed using **NVIDIA Triton Inference Server**.  
 
 ## **Useful links**
-*
-*
-*
+* https://docs.nvidia.com/deeplearning/triton-inference-server/user-guide/docs/tutorials/Quick_Deploy/PyTorch/README.html 
+* https://docs.bentoml.com/en/latest/examples/overview.html
+* https://pytorch.org/serve/
