@@ -21,7 +21,7 @@ Create an RAG (Retrieval-Augmented Generation) system based on an arbitrary embe
 ---
 
 ## Useful Links
-- For those wanting a frontend:  
+- For those crazy enough wanting to have frontend:
   [Streamlit LLM Conversational Apps Tutorial](https://docs.streamlit.io/develop/tutorials/llms/build-conversational-apps)
 - Link to presentation from classes:  
   [Class Presentation](https://docs.google.com/presentation/d/1vuU7655vL2q1e0fzE6nwDTeT5TnB6ZnG5qHuSVZo1hQ/edit?usp=sharing)
